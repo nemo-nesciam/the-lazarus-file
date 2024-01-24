@@ -1,0 +1,160 @@
+---
+tags:
+  - target
+---
+
+- **Target**: South Korea, U.S. Forces Korea
+	- Country: South Korea
+	- Category: Government, Military
+    - Date: April 2011
+    - Name: Ten Days of Rain
+    - Type: Economic Attack
+    - Method: DDoS attack
+    - Motivation: Defaming and Destroy
+    - Impact: Unknown
+    - Reference: [Denial of service incident against South Korean and U.S. targets](https://www.cfr.org/cyber-operations/denial-service-incident-against-south-korean-and-us-targets#:~:text=Dubbed%20%E2%80%9CTen%20Days%20of%20Rain,military%20forces%20in%20South%20Korea.)
+- **Target**: KBS, MBC, YTN
+	- Country: South Korea
+	- Category: Media
+    - Date: 04/20/2013
+    - Name: DarkSeoul
+    - Type: Economic Attack
+    - Method: Malware
+    - Motivation: Defaming and Destroy
+    - Impact: Unknown
+    - Reference: [Tracking the Lineage of DarkSeoul](https://sansorg.egnyte.com/dl/nurZpNn8ee)
+- **Target**: Sony Pictures
+	- Country: United States
+	- Category: Private Sector
+    - Date: 11/24/2014
+    - Name: Sony Pictures Attack
+    - Type: Cyber terrorism
+    - Method: Malware
+    - Motivation:  Defaming and Destroy
+    - Impact: 
+	    - Theft of unreleased films
+	    - Scripts
+	    - Employee information
+	    - 70% of Sony's computers were destroyed
+	- Reference: 
+- **Target**: Banco del Austro
+	- Country: Ecuador
+	- Category: Bank
+    - Date: 01/12/2015
+    - Name: Banco del Austro
+    - Type: Financial Theft
+    - Method: Malware (SWIFT network manipulation)
+    - Motivation: Financial Gain
+    - Impact: $12,000,000
+  - **Target**: Tien Phong Bank
+	- Country: Vietnam
+	- Category: Bank
+    - Date: 05/15/2015
+    - Name: Tien Phong Bank Heist
+    - Type: Financial Theft
+    - Method: Malware (SWIFT network manipulation)
+    - Motivation: Financial Gain
+    - Impact: $0
+- **Target**: Bangladesh Bank
+	- Country: Bangladesh
+	- Category: Bank
+    - Date: 02/04/2016
+    - Name: Bangladesh Bank Heist
+    - Type: Financial Theft
+    - Method: Malware (SWIFT network manipulation)
+    - Motivation: Financial Gain
+    - Impact: $81,000,000
+- **Target**: Global institutions
+	- Country: Global (150 countries)
+	- Category: All
+    - Date: 05/17/2017
+    - Name: WannaCry Ransomware Attack
+    - Type: Ransomware Attack
+    - Method: Cryptoworm exploiting Windows vulnerability
+    - Motivation:  Defaming and Destroy
+    - Impact: $4 billion to $8 billion
+- **Target**: Bitcoin and Monero Users
+	- Country: South Korea
+	- Users
+    - Date: 2017
+    - Name: 2017 Cryptocurrency Attacks
+    - Type: Financial Theft
+    - Method: Malware
+    - Motivation: Financial Gain
+    - Impact: Unknown
+- **Target**: AstraZeneca
+	- Country: UK
+	- Category: Pharmaceutical 
+    - Date: 09/2/2020
+    - Name: AstraZeneca phishing
+    - Type: Data theft
+    - Method: Bookcode malware
+    - Motivation:  Intellectual-property theft
+    - Impact: Unknown
+- **Target**: Ministry of Health
+	- Country: UK
+	- Category: Government  
+    - Date: 10/27/2020
+    - Name: COVID-19 vaccine
+    - Type: Data theft
+    - Method: wAgent malware
+    - Motivation:  Intellectual-property theft
+    - Impact: Unknown
+- **Target**: Cybersecurity researchers
+	- Country: Global
+	- Category: Individuals
+    - Date: 01/01/2021
+    - Name: 2021 Cybersecurity Researchers Targeting
+    - Type: Cyber-espionage
+    - Method: Social engineering, malware
+    - Motivation: Data theft
+    - Impact: Compromised security systems
+- **Target**: Kucoin 
+	- Country: Singapore
+	- Category: Cryptocurrency Exchange
+    - Date: 09/25/2020
+    - Name: KuCoin Hack
+    - Type: Financial Theft
+    - Method: Unknown 
+    - Motivation: Financial Gain
+    - Impact: $275,000,000
+- **Target**: Ronin Network
+	- Category: DiFi
+	- Country: Vietnam
+    - Date: 03/29/2022
+    - Name: Axie Infinity Attack
+    - Type: Financial Theft
+    - Method: Backdoor
+    - Motivation: Financial Gain
+    - Impact: $600,000,000
+- **Target**: Harmony's Horizon Bridge
+    - Category: DeFi
+	- Country: United States
+    - Date: 06/24/2022
+    - Name: Harmony's Bridge Hack
+    - Type: Financial Theft
+    - Method: Theft of private keys
+    - Motivation: Financial Gain
+    - Impact: $100,000,000
+    - Reference: [FBI: North Korean hackers stole $100 million in Harmony crypto hack](https://www.bleepingcomputer.com/news/security/fbi-north-korean-hackers-stole-100-million-in-harmony-crypto-hack/)
+- **Target**: Atomic Wallet
+     - Category: DeFi
+	- Country: United States
+    - Date: 06/02/2023
+    - Name: Atomic Wallet Hack
+    - Type: Financial Theft
+    - Method: Private key exploit
+    - Motivation: Financial Gain
+    - Impact: $35,000,000
+    - Reference: [# $35 million stolen in attacks on Atomic Wallet cryptocurrency customers](https://therecord.media/millions-stolen-in-atomic-wallet-attack)
+- **Target**: CoinsPaid
+	- Category: DeFi
+	- Country: United States
+    - Date: 06/24/2022
+    - Name: CoinsPaid Hack
+    - Type: Financial Theft
+    - Method: Theft of private keys
+    - Motivation: Financial Gain
+    - Impact: $37,300,000
+    - Reference: [CoinsPaid is back to processing after being hit by a hacker attack](https://coinspaid.com/company-updates/coinspaid-is-back-to-processing-after-being-hit-by-hackers-attack/)
+    
