@@ -4,7 +4,17 @@
 
 ## Background Information
 
-- Name: The Lazarus Group
+- Name: LAZARUS GROUP 
+	- APT-C-26
+	- GROUP 77
+	- GUARDIANS OF PEACE
+	- HIDDEN COBRA
+	- OFFICE 91
+	- RED DOT
+	- TEMP.HERMIT
+	- THE NEW ROMANTIC CYBER ARMY TEAM
+	- WHOIS HACKING TEAM
+	- ZINC
 	- Ideology and Goals:
 		- State Sponsored. DPRK cyberattacks constitute almost 45% of their military expenditure. To the best of my recollection, $3.7 billion in cryptocurrency was pilfered in 2023, with DPRK cyberattacks being responsible for nearly half of that amount.
 		- [[Disruption]]
