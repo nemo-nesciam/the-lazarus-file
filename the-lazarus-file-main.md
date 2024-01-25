@@ -6,7 +6,7 @@
 
 - Name: The Lazarus Group
 	- Ideology and Goals:
-		- State Sponsored
+		- State Sponsored. DPRK cyberattacks constitute almost 45% of their military expenditure. To the best of my recollection, $3.7 billion in cryptocurrency was pilfered in 2023, with DPRK cyberattacks being responsible for nearly half of that amount.
 		- [[Disruption]]
 		- [[Sabotage]]
 		- [[Financial Theft]]
@@ -14,7 +14,7 @@
 	- Known Leaders and Members: [[People]]
 		- [[Kim Jong Un]]
 	- Networks: [[Network]]
-
+![[lazarus_group_stolen_crypto_chart.png]]
 ## Operational History
 
 - Summary of Past Attacks or Hacking Incidents:

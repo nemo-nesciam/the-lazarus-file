@@ -158,11 +158,20 @@ List of all known Lazarus Group targets
 - **Target**: CoinsPaid
 	- Category: DeFi
 	- Country: United States
-    - Date: 06/24/2022
+    - Date: 06/22/2022
     - Name: [[CoinsPaid Hack]]
     - Type: Financial Theft
     - Method: Theft of private keys
     - Motivation: Financial Theft
     - Impact: $37,300,000
     - Reference: [CoinsPaid is back to processing after being hit by a hacker attack](https://coinspaid.com/company-updates/coinspaid-is-back-to-processing-after-being-hit-by-hackers-attack/)
-    
+**Target**: 
+	- Category: DeFi
+	- Country: United States
+    - Date: 06/24/2022
+    - Name: [[Alphapo Hack]]
+    - Type: Financial Theft
+    - Method: Theft of private keys
+    - Motivation: Financial Theft
+    - Impact: $23,000,000
+    - Reference: [EXPLAINED: THE ALPHAPO HACK](https://www.halborn.com/blog/post/explained-the-alphapo-hack-july-2023)

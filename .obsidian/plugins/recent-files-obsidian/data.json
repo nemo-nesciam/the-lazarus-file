@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Alphapo Hack",
+      "path": "Alphapo Hack.md"
+    },
+    {
+      "basename": "Ministry of Health",
+      "path": "Ministry of Health.md"
+    },
+    {
+      "basename": "Targets",
+      "path": "Targets.md"
+    },
+    {
+      "basename": "the-lazarus-file-main",
+      "path": "the-lazarus-file-main.md"
+    },
+    {
       "basename": "Person",
       "path": "templates/Person.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Kim Jong Un",
       "path": "Kim Jong Un.md"
-    },
-    {
-      "basename": "the-lazarus-file-main",
-      "path": "the-lazarus-file-main.md"
     },
     {
       "basename": "Network",
@@ -61,10 +73,6 @@
       "path": "Sony Pictures Attack.md"
     },
     {
-      "basename": "Ministry of Health",
-      "path": "Ministry of Health.md"
-    },
-    {
       "basename": "KuCoin Hack",
       "path": "KuCoin Hack.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Targets",
-      "path": "Targets.md"
     }
   ],
   "omittedPaths": [],
