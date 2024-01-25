@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "the-lazarus-file-main",
+      "path": "the-lazarus-file-main.md"
+    },
+    {
+      "basename": "Person",
+      "path": "templates/Person.md"
+    },
+    {
+      "basename": "KuCoin Hack",
+      "path": "KuCoin Hack.md"
+    },
+    {
       "basename": "Targets",
       "path": "Targets.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "Ministry of Health",
       "path": "Ministry of Health.md"
-    },
-    {
-      "basename": "the-lazarus-file-main",
-      "path": "the-lazarus-file-main.md"
-    },
-    {
-      "basename": "Person",
-      "path": "templates/Person.md"
     },
     {
       "basename": "Entity",
@@ -71,10 +75,6 @@
     {
       "basename": "Sony Pictures Attack",
       "path": "Sony Pictures Attack.md"
-    },
-    {
-      "basename": "KuCoin Hack",
-      "path": "KuCoin Hack.md"
     },
     {
       "basename": "Harmony's Bridge Hack",
