@@ -3,7 +3,8 @@ tags:
   - target
 ---
 ## Targets
-List of all known Lazarus Group targets
+List of all known Lazarus Group targets:
+[# FBI Identifies Lazarus Group Cyber Actors as Responsible for Theft of $41 Million from Stake.com](https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom#:~:text=In%202023%20alone%2C%20DPRK%20cyber,or%20about%20June%202%2C%202023.)
 
 - **Target**: South Korea, U.S. Forces Korea
 	- Country: South Korea
