@@ -1,4 +1,4 @@
-This template is designed to organize and record various types of information that might be obtainable through OSINT (Open Source Intelligence) methods. 
+This template is specifically tailored to compile and organize personal data, utilizing Open Source Intelligence (OSINT) methods to gather comprehensive information about an individual.
 
 ---
 

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "People",
-      "path": "templates/People.md"
+      "basename": "Person",
+      "path": "templates/Person.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "templates/Entity.md"
+    },
+    {
+      "basename": "Domain-IP Address",
+      "path": "templates/Domain-IP Address.md"
     },
     {
       "basename": "Kim Jong Un",
