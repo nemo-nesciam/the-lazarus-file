@@ -4,72 +4,91 @@
 
 ## Background Information
 
-- Name of the Group:
-- Ideology and Goals:
-- Key Leaders and Members:
-- Affiliated Groups or Networks:
-- For detailed member profiles: [[Key Member Profile Template]]
+- Name: The Lazarus Group
+	- Ideology and Goals:
+		- State Sponsored
+		- [[Disruption]]
+		- [[Sabotage]]
+		- [[Financial Theft]]
+		- [[Espionage]]
+	- Known Leaders and Members: [[People]]
+		- [[Kim Jong Un]]
+	- Networks: [[Network]]
 
 ## Operational History
 
 - Summary of Past Attacks or Hacking Incidents:
 
-  - Targets: [[targets]]
-
-  - ...
+  - [[Targets]]: 
+	  - [[Ten Days of Rain]]
+	  - [[DarkSeoul]]
+	  - [[Sony Pictures Attack]]
+	  - [[Banco del Austro Bank Heist]]
+	  - [[Tien Phong Bank Heist]]
+	  - [[Bangladesh Bank Heist]]
+	  - [[WannaCry Ransomware Attack]]
+	  - [[2017 Cryptocurrency Attacks]]
+	  - [[AstraZeneca Phishing Attack]]
+	  - [[Ministry of Health]]
+	  - [[2021 Cybersecurity Researchers Targeting]]
+	  - [[KuCoin Hack]]
+	  - [[Axie Infinity Attack]]
+	  - [[Harmony's Bridge Hack]]
+	  - [[Atomic Wallet Hack]]
+	  - [[CoinsPaid Hack]]
 
 - Patterns of Behavior:
 - Geographical Focus:
-- Link to Technical Capabilities: [[Technical Capabilities]]
-- Link to Communication and Recruitment: [[Communication and Recruitment]]
+- Link to Technical Capabilities: 
+- Link to Communication and Recruitment:
 
 ## Technical Capabilities
 
 - Types of Cyber Attacks:
 - Software and Tools Used:
 - Level of Technical Expertise:
-- Specific Attacks or Tools: [[Tool]]
+- Specific Attacks or Tools: 
 
 ## Communication and Recruitment
 
 - Online Platforms Used:
 - Propaganda and Messaging Strategies:
 - Recruitment Methods and Target Demographics:
-- Link to specific propaganda materials or recruitment messages: [[Propaganda Material]]
+- Link to specific propaganda materials or recruitment messages: 
 
 ## Financial Resources
 
 - Sources of Funding:
 - Financial Transactions and Networks:
 - Asset and Resource Allocation:
-- Specific Transactions or Assets: [[Asset]]
+- Specific Transactions or Assets: 
 
 ## Intelligence and Surveillance
 
 - Surveillance Techniques:
 - Intelligence Gathering Methods:
 - Counter-Intelligence Activities:
-- Link to incidents or reports: [[Report]]
+- Link to incidents or reports: 
 
 ## Legal and Regulatory Context
 
 - Relevant Laws:
 - Actions Taken by Law Enforcement:
-- Legal Documents or Cases: [[Case]]
+- Legal Documents or Cases: 
 
 ## Threat Assessment
 
 - Potential Future Targets and Attacks:
 - Assessment of Group's Threat Level:
 - Possible Evolutions or Changes in Tactics:
-- Specific Threats or Predictions: [[Specific Threat/Prediction]]
+- Specific Threats or Predictions: 
 
 ## Investigation and Response Strategies
 
 - Current Investigations and Leads:
 - Collaboration with Other Agencies:
 - Recommended Strategies:
-- Contacts and Protocols: [[Contacts and Protocols]]
+- Contacts and Protocols: 
 
 ## Contact and Coordination Information
 

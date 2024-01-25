@@ -1,4 +1,6 @@
 ---
 tags:
   - people
+  - person
+  - poi
 ---
