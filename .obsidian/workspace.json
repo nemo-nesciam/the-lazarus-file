@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "References.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-lazarus-file-main.md"
+                "file": "References.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
+    "the-lazarus-file-main.md",
+    "References.md",
     "templates/Domain-IP Address.md",
     "templates/Target.md",
     "templates/Entity.md",
     "templates/Person.md",
-    "the-lazarus-file-main.md",
     "README.md",
     "Background Details.md",
     "Files/crypto_addresses_associated_with_lazarus_group.csv",
@@ -197,7 +198,6 @@
     "Harmony's Bridge Hack.md",
     "DarkSeoul.md",
     "CoinsPaid Hack.md",
-    "Bangladesh Bank Heist.md",
     "media/north_korea_RGB_structure.png",
     "media/kim_jong_un.jpg",
     "Untitled.canvas",
