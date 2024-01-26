@@ -43,15 +43,19 @@
         "currentTab": 1
       },
       {
-        "id": "6c75863283561a2c",
+        "id": "6e893324f068de3f",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4d7a65ac1a87f6",
+            "id": "cdec1ad7a4357e2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Target.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -201,7 +205,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "53c4be2e1b8602cc",
+  "active": "cdec1ad7a4357e2b",
   "lastOpenFiles": [
     "templates/Domain-IP Address.md",
     "templates/Entity.md",
