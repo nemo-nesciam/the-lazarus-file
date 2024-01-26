@@ -133,3 +133,13 @@
 - [North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
 - [Treasury Targets DPRK Malicious Cyber and Illicit IT Worker Activities](https://home.treasury.gov/news/press-releases/jy1498)
 - [Treasury Targets DPRK Actors Illicitly Generating Revenue Abroad](https://home.treasury.gov/news/press-releases/jy1313)
+- [North Korea’s state hacking program is varied, fluid, and nimble](https://www.csoonline.com/article/657312/north-koreas-state-hacking-program-is-varied-fluid-and-nimble.html)
+- [North Korea Cyber Threat Overview and Advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/north-korea)
+- [North Korea Cyber Activity](https://go.recordedfuture.com/hubfs/reports/north-korea-activity.pdf)
+- [North Korea Targeted South Korean Cryptocurrency Users and Exchange in Late 2017 Campaign](https://www.recordedfuture.com/blog/north-korea-cryptocurrency-campaign)
+- [North Korea’s Ruling Elite Adapt Internet Behavior to Foreign Scrutiny](https://www.recordedfuture.com/blog/north-korea-internet-behavior)
+- [North Korea Relies on American Technology for Internet Operations](https://www.recordedfuture.com/blog/north-korea-internet-operations)
+- [How North Korea Revolutionized the Internet as a Tool for Rogue Regimes](https://go.recordedfuture.com/hubfs/reports/cta-2020-0209.pdf)
+- [The All-Purpose Sword: North Korea’s Cyber Operations and Strategies](https://www.ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf)
+- [North Korean Cyber Activity](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf)
+
