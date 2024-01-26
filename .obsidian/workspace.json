@@ -13,46 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Domain-IP Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fabe6386c111dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Target.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73e2ee4765c59ecb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6e893324f068de3f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cdec1ad7a4357e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Target.md",
+                "file": "the-lazarus-file-main.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Target.md",
+                "file": "the-lazarus-file-main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Target.md",
+                "file": "the-lazarus-file-main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Target.md"
+                "file": "the-lazarus-file-main.md"
               }
             }
           },
@@ -205,12 +166,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "cdec1ad7a4357e2b",
+  "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
     "templates/Domain-IP Address.md",
+    "templates/Target.md",
     "templates/Entity.md",
     "templates/Person.md",
-    "templates/Target.md",
     "the-lazarus-file-main.md",
     "README.md",
     "Background Details.md",

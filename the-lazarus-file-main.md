@@ -144,4 +144,6 @@
 22. [North Korean Cyber Activity](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf)
 23. [Tracing the Lineage of DarkSeoul](https://sansorg.egnyte.com/dl/nurZpNn8ee)
 24. [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov/)
+25. [North Korea Leverages SaaS Provider in a Targeted Supply Chain Attack](https://www.mandiant.com/resources/blog/north-korea-supply-chain)
+26. [How the Lazarus Group is stepping up crypto hacks and changing its tactics](https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics)
 

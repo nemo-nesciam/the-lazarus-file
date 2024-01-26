@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Target",
-      "path": "templates/Target.md"
+      "basename": "the-lazarus-file-main",
+      "path": "the-lazarus-file-main.md"
     },
     {
       "basename": "Domain-IP Address",
       "path": "templates/Domain-IP Address.md"
+    },
+    {
+      "basename": "Target",
+      "path": "templates/Target.md"
     },
     {
       "basename": "Entity",
@@ -15,10 +19,6 @@
     {
       "basename": "Person",
       "path": "templates/Person.md"
-    },
-    {
-      "basename": "the-lazarus-file-main",
-      "path": "the-lazarus-file-main.md"
     },
     {
       "basename": "README",
