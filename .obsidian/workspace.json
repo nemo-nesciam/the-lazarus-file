@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "James.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "James.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "James.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-lazarus-file-main.md"
+                "file": "James.md"
               }
             }
           },
@@ -168,12 +168,17 @@
   },
   "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
-    "References.md",
+    "media/two_woman_who_assassinated_kim_jong-nam 1.png",
+    "James.md",
+    "media/two_woman_who_assassinated_kim_jong-nam.png",
+    "Kim Jong Un.md",
+    "media/james_tv_producer_who_recruited.png",
+    "templates/Person.md",
     "the-lazarus-file-main.md",
+    "References.md",
     "templates/Domain-IP Address.md",
     "templates/Target.md",
     "templates/Entity.md",
-    "templates/Person.md",
     "README.md",
     "Background Details.md",
     "Files/crypto_addresses_associated_with_lazarus_group.csv",
@@ -186,7 +191,6 @@
     "Alphapo Hack.md",
     "Ministry of Health.md",
     "media/lazarus_group_stolen_crypto_chart.png",
-    "Kim Jong Un.md",
     "Tien Phong Bank Heist.md",
     "People.md",
     "AstraZeneca Phishing Attack.md",
@@ -196,8 +200,6 @@
     "Ten Days of Rain.md",
     "Sony Pictures Attack.md",
     "Harmony's Bridge Hack.md",
-    "DarkSeoul.md",
-    "CoinsPaid Hack.md",
     "media/north_korea_RGB_structure.png",
     "media/kim_jong_un.jpg",
     "Untitled.canvas",
