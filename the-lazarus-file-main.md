@@ -3,6 +3,8 @@
 - This repository is dedicated to the collaborative development of a comprehensive profile on the infamous Lazarus Group as part of a unique three-part [article](https://medium.com/p/1369a6383758) series to be published on my [Medium](https://medium.com/@ervin.zubic) platform.
 
 ## Background Information
+- North Korea employs an aggressive cyber strategy, focused on gathering information and conducting financial theft to support its key objectives: maintaining the Kim family dynasty and unifying the Korean peninsula under North Korean leadership. They collect information from various sources, including academics, media, and defectors, to anticipate operational scenarios during tense situations. Additionally, they target technology data, particularly in missile technology, to gain an advantage during crises.
+- [[Background Details]]
 
 - Name: LAZARUS GROUP 
 	- APT-C-26
@@ -47,7 +49,6 @@
 	  - [[Atomic Wallet Hack]]
 	  - [[CoinsPaid Hack]]
 	  - [[Alphapo Hack]]
-	  -
 
 - Patterns of Behavior:
 - Geographical Focus:
@@ -117,3 +118,18 @@
 
 - Relevant Documents:
 - Visual Aids:
+
+## References
+- [JacobBogle.com](http://www.jacobbogle.com/accessdprk.html)
+- [UN Security Council Report](https://www.securitycouncilreport.org/un-documents/dprk-north-korea/)
+- [Crypto Country: North Korea’s Targeting of Cryptocurrency](https://www.recordedfuture.com/crypto-country-north-koreas-targeting-cryptocurrency)
+- [North Korea’s Cyber Strategy](https://www.recordedfuture.com/north-koreas-cyber-strategy)
+- [SlowMist: Investigation of North Korean APT’s Large-Scale Phishing Attack on NFT Users](https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519)
+- [North Korea’s Lazarus: their initial access trade-craft using social media and social engineering](https://research.nccgroup.com/2022/05/05/north-koreas-lazarus-and-their-initial-access-trade-craft-using-social-media-and-social-engineering/)
+- [Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
+- [Lazarus Hacker Group Evolves Tactics, Tools, and Targets in DeathNote Campaign](https://thehackernews.com/2023/04/lazarus-hacker-group-evolves-tactics.html)
+- [North Korean Regime-Backed Programmer Charged With Conspiracy to Conduct Multiple Cyber Attacks and Intrusions](https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and)
+- [Three North Korean Military Hackers Indicted in Wide-Ranging Scheme to Commit Cyberattacks and Financial Crimes Across the Globe](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and)
+- [North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
+- [Treasury Targets DPRK Malicious Cyber and Illicit IT Worker Activities](https://home.treasury.gov/news/press-releases/jy1498)
+- [Treasury Targets DPRK Actors Illicitly Generating Revenue Abroad](https://home.treasury.gov/news/press-releases/jy1313)

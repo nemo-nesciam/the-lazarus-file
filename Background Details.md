@@ -1,0 +1,8 @@
+#background #overview #history
+
+- North Korea pursues an assertive cyber strategy characterized by proactive and rapid information acquisition, as well as financial theft activities. These actions are undertaken to advance its overarching objectives, which include sustaining the Kim family dynasty and achieving the reunification of the Korean peninsula under North Korean leadership. To achieve these goals, North Korea engages in information collection operations aimed at understanding the perspectives and thought processes of its adversaries. This encompasses a wide spectrum of individuals, ranging from academics and media professionals to defectors and those with connections to North Korea. The primary aim is to enhance its ability to foresee and navigate the operational landscape during periods of heightened tensions or conflicts.
+
+- Furthermore, North Korea actively seeks to access valuable information related to critical technologies, such as missile technology. This pursuit is driven by the desire to attain an advantageous position, leveraging technological superiority, particularly during the aforementioned periods of crisis.
+
+- North Korean state-sponsored threat actors have carried out 273 cyberattacks, providing insights into their cyber strategy through historical actions.
+- These threat actors from North Korea have exhibited a global presence, targeting entities across 29 different countries since 2009.

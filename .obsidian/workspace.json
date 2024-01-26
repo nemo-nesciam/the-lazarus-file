@@ -18,6 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73e2ee4765c59ecb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c75863283561a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4d7a65ac1a87f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-lazarus-file-main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-lazarus-file-main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the-lazarus-file-main.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +184,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b98b5055fc660cf0",
+  "active": "2f4d7a65ac1a87f6",
   "lastOpenFiles": [
+    "the-lazarus-file-main.md",
+    "Background Details.md",
     "Files/crypto_addresses_associated_with_lazarus_group.csv",
     "Files/crypto_addresses_associated_with_lazarus_group 1.csv",
     "Files",
     "templates/Person.md",
-    "the-lazarus-file-main.md",
     "KuCoin Hack.md",
     "Targets.md",
     "Network.md",

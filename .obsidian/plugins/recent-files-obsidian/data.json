@@ -5,6 +5,10 @@
       "path": "the-lazarus-file-main.md"
     },
     {
+      "basename": "Background Details",
+      "path": "Background Details.md"
+    },
+    {
       "basename": "Person",
       "path": "templates/Person.md"
     },
