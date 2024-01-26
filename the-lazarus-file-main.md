@@ -142,4 +142,6 @@
 20. [How North Korea Revolutionized the Internet as a Tool for Rogue Regimes](https://go.recordedfuture.com/hubfs/reports/cta-2020-0209.pdf)
 21. [The All-Purpose Sword: North Korea’s Cyber Operations and Strategies](https://www.ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf)
 22. [North Korean Cyber Activity](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf)
+23. [Tracing the Lineage of DarkSeoul](https://sansorg.egnyte.com/dl/nurZpNn8ee)
+24. [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov/)
 

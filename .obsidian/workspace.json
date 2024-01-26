@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "the-lazarus-file-main.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "the-lazarus-file-main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "the-lazarus-file-main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "the-lazarus-file-main.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
+    "README.md",
     "the-lazarus-file-main.md",
     "Background Details.md",
     "Files/crypto_addresses_associated_with_lazarus_group.csv",
@@ -219,7 +220,6 @@
     "CoinsPaid Hack.md",
     "Bangladesh Bank Heist.md",
     "Banco del Austro Bank Heist.md",
-    "Axie Infinity Attack.md",
     "media/north_korea_RGB_structure.png",
     "media/kim_jong_un.jpg",
     "Untitled.canvas",
