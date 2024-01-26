@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -184,7 +188,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2f4d7a65ac1a87f6",
+  "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
     "the-lazarus-file-main.md",
     "Background Details.md",

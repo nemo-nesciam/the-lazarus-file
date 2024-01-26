@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "the-lazarus-file-main",
       "path": "the-lazarus-file-main.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Axie Infinity Attack",
       "path": "Axie Infinity Attack.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

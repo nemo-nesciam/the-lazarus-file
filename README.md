@@ -1,6 +1,6 @@
 # The Lazarus File - Crowdsourced Intelligence Project
 
-This repository is dedicated to the collaborative development of a comprehensive profile on the infamous Lazarus Group as part of a unique three-part article series to be published on my Medium platform. Together, we are embarking on an unprecedented journey of collective intelligence-gathering, with the goal of piecing together a detailed understanding of a group that has remained shrouded in digital shadows. 
+This repository is dedicated to the collaborative development of a comprehensive profile on North Korea's state-sponsored cyber activities, including but not limited to the Lazarus Group, as part of a unique three-part [article](https://medium.com/p/e44d60c85fde) series to be published on my [Medium](https://medium.com/@ervin.zubic/about) platform. Together, we are embarking on an unprecedented journey of collective intelligence-gathering, with the goal of piecing together a detailed understanding of the cyber operations and threat landscape associated with North Korea, a topic that has remained shrouded in digital shadows.
 
 ## Project Outline
 
