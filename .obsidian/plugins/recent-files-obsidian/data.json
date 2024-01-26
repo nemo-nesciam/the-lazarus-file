@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Target",
+      "path": "templates/Target.md"
+    },
+    {
+      "basename": "Domain-IP Address",
+      "path": "templates/Domain-IP Address.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "templates/Entity.md"
+    },
+    {
+      "basename": "Person",
+      "path": "templates/Person.md"
+    },
+    {
       "basename": "the-lazarus-file-main",
       "path": "the-lazarus-file-main.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Background Details",
       "path": "Background Details.md"
-    },
-    {
-      "basename": "Person",
-      "path": "templates/Person.md"
     },
     {
       "basename": "KuCoin Hack",
@@ -39,14 +51,6 @@
     {
       "basename": "Ministry of Health",
       "path": "Ministry of Health.md"
-    },
-    {
-      "basename": "Entity",
-      "path": "templates/Entity.md"
-    },
-    {
-      "basename": "Domain-IP Address",
-      "path": "templates/Domain-IP Address.md"
     },
     {
       "basename": "Kim Jong Un",

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "templates/Domain-IP Address.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fabe6386c111dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Target.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c75863283561a2c",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "templates/Target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-lazarus-file-main.md",
+                "file": "templates/Target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-lazarus-file-main.md"
+                "file": "templates/Target.md"
               }
             }
           },
@@ -188,15 +201,18 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b98b5055fc660cf0",
+  "active": "53c4be2e1b8602cc",
   "lastOpenFiles": [
-    "README.md",
+    "templates/Domain-IP Address.md",
+    "templates/Entity.md",
+    "templates/Person.md",
+    "templates/Target.md",
     "the-lazarus-file-main.md",
+    "README.md",
     "Background Details.md",
     "Files/crypto_addresses_associated_with_lazarus_group.csv",
     "Files/crypto_addresses_associated_with_lazarus_group 1.csv",
     "Files",
-    "templates/Person.md",
     "KuCoin Hack.md",
     "Targets.md",
     "Network.md",
@@ -204,8 +220,6 @@
     "Alphapo Hack.md",
     "Ministry of Health.md",
     "media/lazarus_group_stolen_crypto_chart.png",
-    "templates/Entity.md",
-    "templates/Domain-IP Address.md",
     "Kim Jong Un.md",
     "Tien Phong Bank Heist.md",
     "People.md",
@@ -219,7 +233,6 @@
     "DarkSeoul.md",
     "CoinsPaid Hack.md",
     "Bangladesh Bank Heist.md",
-    "Banco del Austro Bank Heist.md",
     "media/north_korea_RGB_structure.png",
     "media/kim_jong_un.jpg",
     "Untitled.canvas",
