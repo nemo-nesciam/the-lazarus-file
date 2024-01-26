@@ -146,4 +146,7 @@
 24. [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov/)
 25. [North Korea Leverages SaaS Provider in a Targeted Supply Chain Attack](https://www.mandiant.com/resources/blog/north-korea-supply-chain)
 26. [How the Lazarus Group is stepping up crypto hacks and changing its tactics](https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics)
+27. [2023 Public-Private Analytic Exchange Program Deliverables](https://www.dhs.gov/publication/2023-aep-deliverables#:~:text=09/28/2023-,Phase%20II%3A%20Combatting%20Illicit%20Activity%20Utilizing%20Financial%20Technologies%20and%20Cryptocurrencies,-PDF)
+28. [A Look into the Lazarus Group’s Operations](https://www.trendmicro.com/vinfo/pl/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations)
+29. [The Lazarus Heist](https://www.youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8)
 
