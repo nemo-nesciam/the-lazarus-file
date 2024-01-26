@@ -162,4 +162,11 @@
 40. [North Korea’s Lazarus: their initial access trade-craft using social media and social engineering](https://research.nccgroup.com/2022/05/05/north-koreas-lazarus-and-their-initial-access-trade-craft-using-social-media-and-social-engineering/)
 41. [North Korean hackers used polished LinkedIn profiles to target security researchers](https://cyberscoop.com/north-korea-hackers-linkedin-phishing/)
 42. [Lazarus Group Rises Again, to Gather Intelligence on Energy, Healthcare Firms](https://www.darkreading.com/ics-ot-security/lazarus-group-rises-again-gather-intelligence-energy-healthcare-firms)
+43. [International Money Launderer Sentenced to over 11 Years in Federal Prison for Laundering Millions from Cyber Crime Schemes](https://www.justice.gov/usao-cdca/pr/international-money-launderer-sentenced-over-11-years-federal-prison-laundering)
+44. [3 North Korean Military Hackers Indicted in Wide-Ranging Scheme to Commit Cyber-attacks and Financial Crimes Across the Globe](https://www.justice.gov/usao-cdca/pr/3-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyber-attacks-and)
+45. [Lazarus Under The Hood](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf)
+46. [HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure](https://www.cisa.gov/news-events/alerts/2017/06/13/hidden-cobra-north-koreas-ddos-botnet-infrastructure)
+47. [Not So Lazarus: Mapping DPRK Cyber Threat Groups to Government Organizations](https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government)
+48. [North Korea Cyber Threat Overview and Advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/north-korea)
+49. 
 
