@@ -119,6 +119,9 @@
 - Relevant Documents:
 - Visual Aids:
 
+## Researchers and Analysts Covering North Korea
+- Remco Breuker, Professor of Korean Studies, Leiden University
+
 ## [[References]]
 
 

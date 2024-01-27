@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Vent D'est - Corporation",
+      "path": "Vent D'est - Corporation.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "templates/Entity.md"
+    },
+    {
+      "basename": "the-lazarus-file-main",
+      "path": "the-lazarus-file-main.md"
+    },
+    {
+      "basename": "International Relations",
+      "path": "International Relations.md"
+    },
+    {
+      "basename": "Bureau 39",
+      "path": "Bureau 39.md"
+    },
+    {
       "basename": "Agency",
       "path": "templates/Agency.md"
+    },
+    {
+      "basename": "Bangladesh Bank Heist",
+      "path": "Bangladesh Bank Heist.md"
     },
     {
       "basename": "James",
@@ -25,10 +49,6 @@
       "path": "templates/Person.md"
     },
     {
-      "basename": "the-lazarus-file-main",
-      "path": "the-lazarus-file-main.md"
-    },
-    {
       "basename": "References",
       "path": "References.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "Target",
       "path": "templates/Target.md"
-    },
-    {
-      "basename": "Entity",
-      "path": "templates/Entity.md"
     },
     {
       "basename": "README",
@@ -119,10 +135,6 @@
     {
       "basename": "CoinsPaid Hack",
       "path": "CoinsPaid Hack.md"
-    },
-    {
-      "basename": "Bangladesh Bank Heist",
-      "path": "Bangladesh Bank Heist.md"
     },
     {
       "basename": "Banco del Austro Bank Heist",

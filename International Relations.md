@@ -1,0 +1,20 @@
+- Workers abroad only earn about $90 per day the rest is funneled back to the North Korean government. It estimated that about 150,000 of North Koreans work abroad despite UN sections. Intelligence agencies estimate that North Korea earns up $1 billion per year through these efforts.
+- Countries: 
+	- Russia
+		- Count: 40,000
+	- China
+		- Count: 100,000
+		- Imports: ~90% of North Korean exports 
+	- Kuwait
+	- Malaysia 
+	- Cambodia 
+	- Mongolia 
+	- Oman
+	- Qatar
+	- United Arab Emirates
+	- Africa
+	- Syrian Arab Republic
+		- Has the greatest level of cooperation with North Korea
+		- Relationship goes back to 1960
+		- North Korea supplied Syrian Arab Republic with weapons during their war with Israel
+		- 
