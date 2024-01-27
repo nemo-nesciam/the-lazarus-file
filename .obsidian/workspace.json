@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "James.md",
+                "file": "templates/Agency.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "James.md",
+                "file": "templates/Agency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "James.md",
+                "file": "templates/Agency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James.md"
+                "file": "templates/Agency.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "b98b5055fc660cf0",
   "lastOpenFiles": [
-    "media/two_woman_who_assassinated_kim_jong-nam 1.png",
     "James.md",
+    "templates/Agency.md",
+    "media/two_woman_who_assassinated_kim_jong-nam 1.png",
     "media/two_woman_who_assassinated_kim_jong-nam.png",
     "Kim Jong Un.md",
     "media/james_tv_producer_who_recruited.png",
